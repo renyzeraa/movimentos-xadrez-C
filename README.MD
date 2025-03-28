@@ -1,4 +1,4 @@
-# README - Simulação de Movimentos no Xadrez
+# Simulação de Movimentos no Xadrez
 
 Este programa em C simula os movimentos de quatro peças do xadrez: **Torre, Bispo, Rainha e Cavalo**. O código utiliza recursividade para algumas peças e loops aninhados para outras, garantindo um código eficiente e bem estruturado.
 
